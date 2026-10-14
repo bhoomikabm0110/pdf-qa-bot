@@ -1,7 +1,7 @@
 streamlit
-pypdf
-langchain
-langchain-community
-langchain-google-genai
-faiss-cpu
 python-dotenv
+pdfplumber
+langchain-text-splitters
+langchain-community
+rank_bm25
+google-generativeai
